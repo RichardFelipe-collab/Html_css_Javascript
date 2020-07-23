@@ -1,0 +1,29 @@
+#formulario{
+    width:300px;
+    margin: 0 auto;
+    margin-top: 200px;
+    border:solid 1px;
+    text-align: center;
+    border-radius: 15px;
+    background: #ffe9cf;
+    box-shadow: 1px 1px 2px 1px;
+}
+
+body{
+ 
+    background-image: url(imagens/bg.jpg);
+}
+a{
+    margin-left: 60px;
+    text-decoration: none;
+    color: orange;
+}
+
+#logar{
+    background: #fdaf00;
+    width: 220px;
+    border-radius: 15px;
+    height: 60px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

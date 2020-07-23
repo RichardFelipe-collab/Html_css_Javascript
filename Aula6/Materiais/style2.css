@@ -1,0 +1,75 @@
+
+.content {
+    width: 960px;
+    margin: 0 auto;
+    font-family: verdana;
+    font-size: 12pt;
+}
+
+#art1 {
+    border: solid 1px;
+    padding: 5px;
+    box-shadow: 3px 2px 9px;
+    text-align: justify;
+    border-radius: 10px;
+}
+
+#fig1 {
+    float: left;
+    border-right: dotted 1px;
+    padding-right: 50px;
+    height: 200px;
+    text-align: center;
+}
+
+#i1 {
+    font-size: 12pt;
+}
+
+#i2 {
+    font-size:12pt;
+}
+
+#art2 {
+     border: solid 1px;
+    padding: 5px;
+    box-shadow: 3px 2px 9px;
+    text-align: justify;
+    margin-top: 10px;
+    border-radius: 10px;
+     box-shadow: 3px 2px 9px;
+    
+}
+
+        #fig2 {
+     
+    border-left: dotted 1px;
+   width: 200px;
+            height: 200px;
+            float: right;
+            padding-left: 50px;
+            text-align: center;
+            
+           
+    
+}
+
+#linver {
+    color: red;
+    text-decoration: none;
+}
+
+#green {
+    color:green;
+        text-decoration:none;
+}
+
+.pé {
+    font-size: 10pt;
+    height: 50px;
+    border-radius: 10px;
+    background-image: linear-gradient(to bottom, white, purple);
+    text-align: center;
+    margin-top: 10px;
+
+}

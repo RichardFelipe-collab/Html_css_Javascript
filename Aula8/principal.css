@@ -1,0 +1,104 @@
+#topo{
+    background-color: #ccc;
+    padding: 20px;
+}
+
+body{
+    margin: 0px;
+}
+
+#topo h1{
+    margin: 0px;
+}
+
+#topo h1 span{
+    color:#f00;
+}
+
+#topo section{
+    width: 800px;
+    margin: auto;
+}
+
+#topo h1, #topo nav{
+    display: inline-block;
+    width: 380px;
+}
+
+#container{
+    width: 800px;
+    margin: auto;
+}
+
+figure{
+    width: 100%;
+    margin: 0px;
+    border-radius: 15px;
+    background-color: #ccc;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+figure img{
+    border-radius: 15px 15px 0px 0px;
+}
+
+figcaption{
+    text-align: center;
+    padding: 10px;
+}
+
+.artigo{
+    text-align: center;
+    width: 25%;
+    padding: 10px;
+    float: left;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+
+#container h1{
+    background-color: #f00;
+    clear: both;
+    border-radius: 5px;
+    color:#fff;
+    text-align: center;    
+}
+
+p{
+    text-align: justify;
+}
+
+footer{
+    background-color: #383737;
+    color: #fff;
+    text-align: center;
+    padding: 30px;
+}
+
+
+
+
+#esq {
+    text-align: center;
+   
+}
+a{
+     text-decoration: none;
+    color: black;
+    margin:15px;
+}
+a:hover{
+    background:  #b43b3b;
+    border-radius: 5px;
+    padding: 9px;
+}
+button{
+    background: black;
+    border-radius: 5px;
+    color: white;
+    border:none;
+    padding: 10px;
+   cursor: pointer;
+}

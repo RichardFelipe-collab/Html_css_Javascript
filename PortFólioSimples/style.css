@@ -1,0 +1,156 @@
+@media screen and (max-width:600px){
+ figure{
+         margin-top: 20px;
+    border: solid #aca1a1 1px;
+    width: 90%;
+    padding: 0.9%;
+    padding-bottom: 3%;
+    background: #f0f0f0;
+    text-align: center;
+    font-size: 16pt;
+    ;} 
+    .for{
+        margin-left: 35%
+    }
+      
+    div > figure > img{
+        width: 70%;
+    }
+    #menu{
+        display: none;
+    }
+   nav > a{
+        display: none;
+    }
+     #tudo{
+         
+     width: 40%;
+         margin: 0 auto;
+         text-align: center;
+         color:#8db2d8;
+         clear: both;
+         border: solid 1px;
+         
+       
+    }
+    article > a > img{
+        width: 80%;
+        margin-left:5px;
+        margin-bottom: 10px;
+        margin-top: 20px;
+    }
+    #menu2{
+        margin-top: 0;
+        width: 16%;
+         background: #4199ff;
+        float: left;
+        height:700px;
+            
+        
+        }
+    a:hover{
+        background: #fff
+    }
+   
+}
+@media screen and (min-width:600px){
+    #menu, li, a, ul {   
+    list-style-type: none;
+    background: #9fed23;
+    color: white;
+    text-decoration-line: none;
+    font-size: 15pt;
+
+    
+  }
+    a{
+        text-decoration: none;
+        color:black;
+    }
+    .for{
+      margin-left: 35%
+    }
+#menu{ 
+     width: 100%;
+   background: #4199ff;
+    color: white;
+    text-decoration-line: none;
+    font-size: 19pt;
+    padding: 1.6%;
+    margin-bottom: 150px;
+    }
+    a {
+    margin-right:9%;
+    
+}
+    img{
+        width:70%;
+    }
+    #tudo{
+        margin: 0 auto;
+    }
+    figure{
+        margin: 0 auto;
+         margin-top: 20px;
+    border: solid #aca1a1 1px;
+    width: 600px;
+    padding: 0.9%;
+    padding-bottom: 3%;
+    background: #f0f0f0;
+    text-align: center;
+    font-size: 16pt;} 
+    
+    
+    #menu2{
+        display: none;
+    }
+    #tudo{
+        margin-top: 500px;
+     width: 40%;
+         margin: 0 auto;
+         text-align: center;
+         color:#8db2d8;
+        border: solid 1px;
+        
+    }
+
+}
+
+body{
+    height: auto;
+    background: #f8f8f8;
+}
+
+
+
+
+#img {
+    width: 200px;
+    height: 200px;
+    background: #aeeafc;
+    border-radius: 15px;
+    float: left;
+    margin-right: 10%;
+}
+
+#md {
+    color:coral;
+}
+
+#bw {
+    color: red;
+}
+
+article {
+    width: 30%;
+    float: left;
+    
+}
+
+#comp {
+    
+}
+
+aside {
+    float: left;
+}

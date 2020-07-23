@@ -1,0 +1,62 @@
+
+form{
+    font-family: fantasy;
+        margin: 50px auto;
+    width: 269px;
+    height: 390px;
+    padding-left: 30px;
+    background-color: #363636;
+    padding-top: 40px;
+    border-radius: 17px;
+
+}
+
+.calc_botao, .calc_op, .calc_fun{
+float:left;
+font-size: 10pt;
+padding:0;
+margin:0 0 5px 7px;
+width: 50px;
+height: 50px;
+line-height: 23px;
+color: white;
+text-align:center;
+text-decoration:none;
+text-shadow: 0 1px #000;
+background-color: #313131;
+border-radius:3px;
+cursor:pointer;
+box-shadow: 1px 1px 1px #000;
+}
+
+.visor{
+margin-bottom: 20px;
+
+
+width: 80%;
+padding:5px;
+background-color: #222;
+border-radius: 3px;
+}
+
+.input{
+    font-size: 16pt;
+    display:block;
+    width:92%;
+    height: 35px;
+    padding: 0 8px;
+    font-family:monospace;
+    color:#444;
+    text-align: right;
+    background-color: #bccd95;
+    border: 1px solid #222;
+    border-radius: 2px;
+    box-shadow: inset 0px 2px 3px #000;
+
+
+    
+}
+
+    .calc_op{
+        background-color: #ff4561;
+    }

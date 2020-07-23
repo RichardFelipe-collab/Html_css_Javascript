@@ -1,0 +1,95 @@
+body{
+    background: linear-gradient(#1e1ef7,#bdb7ff);
+    background-attachment: fixed;
+}
+
+#container{
+    width: 750px;
+    margin: auto;
+    border-radius: 20px;
+        
+}
+
+#menutopo{
+    height: 50px;
+    background: linear-gradient(90deg,#ffb38a,#ff5900);
+    border-radius: 20px 20px 0px 0px;
+}
+
+header{
+    background: linear-gradient(90deg,#ffe59f,#bf8b00);
+    padding:30px;
+    padding-top: 50px;
+}
+
+#content{
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 0px 0px 20px 20px;
+}
+
+#menuesq, article{
+    display: inline-block;
+    vertical-align: top;
+}
+
+#menuesq{
+    width: 25%;
+}
+
+#menuesq a{
+    display: block;
+    padding: 20px;
+    border-bottom: 2px solid #ccc;
+    text-decoration: none;
+    color: orange;
+    
+}
+article> p>a{
+     text-decoration: none;
+    color: orange;
+}
+article{
+    width: 70%;
+    margin-left: 20px;
+    
+}
+#menutopo > a{
+    text-decoration: none;
+    color: white;
+    margin: 15px;
+    line-height: 45px;
+    
+}
+header > h1{
+    color: white;
+}
+#menumeio{
+    width: 45%;
+    margin-top: 20px;
+    float: left;
+    
+    
+}
+#menumeio a{
+     display: block;
+    padding: 20px;
+    border-bottom: 2px solid #ccc;
+    text-decoration: none;
+    color: orange;
+    
+}
+
+#menudir {
+    width: 45%;
+    float: right;
+}
+h4{
+    border-top: 2px solid #ccc;
+}
+footer{
+    margin-top: 30px;
+    margin-bottom: 200px;
+    color: white;
+    text-align: center;
+}
